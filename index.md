@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## JMeter 5 Practice Notes
 
 You can use the [editor on GitHub](https://github.com/johnny1952/jmeter5-practice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
